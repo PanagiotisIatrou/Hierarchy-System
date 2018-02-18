@@ -10,3 +10,6 @@ Easy solution for creating an hierarchy between items
 5) Navigate to the HierarchySystem.dll you downloaded and double click it
 6) Select the box and click "OK"
 7) Done!
+
+# Notes:
+- There are examples that show the use of the Hierarchy System in the "Examples" folder.
