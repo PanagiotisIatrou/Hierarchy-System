@@ -14,7 +14,7 @@ namespace HierarchySystemExample0
 			father.SetParent(grandfather);
 			daughter.SetParent(father);
 
-			HItem _SameGrandfather = grandfather.GetChild(0).GetChild(0);
+			HItem _SameGrandfather = daughter.GetParent().GetParent();
 
 			Console.WriteLine(_SameGrandfather.childCount);
 			Console.Read();
