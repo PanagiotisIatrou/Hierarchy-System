@@ -2,7 +2,7 @@
 Easy solution for creating an hierarchy between items
 
 # How to implement
-- Visual Studio 2017:
+- ##Visual Studio 2017:
 1) Download the HierarchySystem.dll
 2) Right click on "References" in the Project Solution Explorer.
 3) Select "Add Reference"
